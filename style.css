@@ -7,7 +7,6 @@ body {
     font-family: Arial, sans-serif;
 }
 
-/* MOBILE FIRST */
 
 header {
     width: 90%;
@@ -39,8 +38,6 @@ nav {
 }
 
 
-/* TABLET */
-
 @media (min-width: 48rem) {
 
     header {
@@ -59,8 +56,6 @@ nav {
 
 }
 
-
-/* LAPTOP */
 
 @media (min-width: 64rem) {
 
@@ -119,7 +114,6 @@ nav {
 }
 
 
-/* DESKTOP */
 
 @media (min-width: 75rem) {
 
